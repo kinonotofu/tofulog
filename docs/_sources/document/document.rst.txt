@@ -1,0 +1,12 @@
+資料置き場
+=============================
+
+勉強会発表資料
+-----------------------------
+第6回Modelicaライブラリ勉強会
+
+`Modelica Buildings Libraryの紹介 <https://github.com/kinonotofu/tofulog/raw/master/document/20181124MBL_introduction.pptx>`_ 
+
+翻訳
+-----------------------------
+`Modelica Buildings Libraryのユーザーガイド <https://github.com/kinonotofu/Buildings-UG-ja/releases/download/v1.0/Buildings-UG-ja-v1.0.pdf>`_ 
