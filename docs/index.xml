@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>そらそうよ</title>
-    <link>https://kinonotofu.github.io/tofulog/</link>
+    <link>https://kinonotofu.github.io/</link>
     <description>Recent content on そらそうよ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 04 Dec 2020 21:10:23 +0900</lastBuildDate><atom:link href="https://kinonotofu.github.io/tofulog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 21:10:23 +0900</lastBuildDate><atom:link href="https://kinonotofu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>はじめに</title>
-      <link>https://kinonotofu.github.io/tofulog/posts/initial/</link>
+      <link>https://kinonotofu.github.io/posts/initial/</link>
       <pubDate>Fri, 04 Dec 2020 21:10:23 +0900</pubDate>
       
-      <guid>https://kinonotofu.github.io/tofulog/posts/initial/</guid>
+      <guid>https://kinonotofu.github.io/posts/initial/</guid>
       <description>いろいろ説明 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://kinonotofu.github.io/tofulog/about/</link>
+      <link>https://kinonotofu.github.io/about/</link>
       <pubDate>Fri, 04 Dec 2020 21:06:39 +0900</pubDate>
       
-      <guid>https://kinonotofu.github.io/tofulog/about/</guid>
+      <guid>https://kinonotofu.github.io/about/</guid>
       <description>テストページ 何かを書く
 テストのテスト 記事を書く</description>
     </item>
